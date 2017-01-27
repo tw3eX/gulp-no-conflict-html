@@ -1,0 +1,14 @@
+{
+  "name": "gulp-no-conflict-html",
+  "version": "0.0.1",
+  "author": {
+    "name": "Valeriy Zakharov"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {}
+}
